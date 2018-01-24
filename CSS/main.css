@@ -1,0 +1,110 @@
+
+.top{
+    margin-left:30px;
+    margin-bottom: -20px;   
+    margin-top: 10px;
+}
+.btn{
+    cursor: pointer;
+}
+.btn-info {
+    background-color:hsl(88, 77%, 51%);
+    color:white;
+    text-decoration: none;
+}
+.rounded-pill {
+    border-radius: 5rem;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+    border-bottom-left-radius: 5rem;
+}
+.btn-xl {
+    padding: 10px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.text-center{
+    text-align: center
+}
+.text-white{
+    color:white;
+}
+.container {
+    position: relative;
+}
+.header-size{
+    padding-top: 20px;
+    height: 758px;
+}
+.header-text{
+    position: relative;
+    margin: 0;
+    height: 100px;
+    top: -400px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.bg-opacity-img{
+    position: relative;
+    height: auto;
+    width: 1349px;
+    opacity: 0.3;
+    background-size: cover;
+}
+.bg-color{
+    position: relative;
+    width: auto;
+    background-color:black;
+}
+.section-bg{
+    position: relative;
+    margin-top: -0px;
+    height: 500px;
+    background-color: rgb(221, 247, 241);
+}
+.section-text{
+    font-size: 18px;
+    line-height: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    
+}
+.flower{
+    float: left;
+    padding: 50%;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    max-width: 400px;
+}
+.payment{
+    float: left;
+    padding: 50%;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    max-width: 400px;
+}
+.phone{
+    float: left;
+    padding: 50%;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    max-width: 400px;
+}
+.truck{
+    float: left;
+    padding: 50%;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    max-width: 400px;
+}
+.section-img{
+    margin-top: -40px;
+    margin-right: 50px;
+}
